@@ -1,4 +1,15 @@
-<h3>This is a kinda chrome extension</h3>
+<h3>This is a chrome extension, use as a storage</h3>
+
+
+
+
+![chrome ](https://user-images.githubusercontent.com/110152369/219939907-6564e7b9-10d8-42b6-a6ac-253d00a376ad.png)
+;
+
+
+
+
+
 <h4>Here you can add any content and text from anywhere</h4>
 <h4>Save as a storage,  further you can pic  it up  and use anytime.
 </h4>
